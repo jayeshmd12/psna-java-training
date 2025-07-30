@@ -1,1 +1,0 @@
-# psna-java-training
